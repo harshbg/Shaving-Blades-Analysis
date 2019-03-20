@@ -37,7 +37,7 @@ Our analysis is focussed on providing answers to four questions using the data p
 ## Setup
 
 The data used for the analaysis and its metadata can be found in the [dataset](https://github.com/harshbg/Shaving-Blades-Analysis/tree/master/Data) folder. 
-The entire code has been provided [here]() can be used in latest version of SAS to run replicate various operations provided and see the various outputs generated. 
+The entire code has been provided [here](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Project_New.sas) can be used in latest version of SAS to run replicate various operations provided and see the various outputs generated. 
 A detailed explaination of the various operations and the interpretition of the outputs can be found in the [project report](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Group03_FinalReport.pdf). 
 
 
@@ -116,7 +116,7 @@ var recency_score frequency_score monetary_score;
 run;*/
 ````
 
-The entire code can be found [here]().
+The entire code can be found [here](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Project_New.sas).
 
 ## Features
 We have answered four questions as follows: 
