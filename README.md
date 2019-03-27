@@ -17,7 +17,7 @@ The entire summary of the project can be found in the [project report](https://g
 
 ## General info
 The dataset consists of sales data for various brands of shaving blades sold in the United States. 
-We have analyzed the data from the stand point of one of the prime blade manufacturer "BIC" to provide insights that can help them increase their revenue. 
+We have analyzed the data from the standpoint of one of the prime blade manufacturer "BIC" to provide insights that can help them increase their revenue. 
 Our analysis is focussed on providing answers to four questions using the data provided. 
 
 
@@ -36,12 +36,13 @@ Our analysis is focussed on providing answers to four questions using the data p
 
 ## Setup
 
-The data used for the analaysis and its metadata can be found in the [dataset](https://github.com/harshbg/Shaving-Blades-Analysis/tree/master/Data) folder. 
-The entire code has been provided [here](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Project_New.sas) can be used in latest version of SAS to run replicate various operations provided and see the various outputs generated. 
-A detailed explaination of the various operations and the interpretition of the outputs can be found in the [project report](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Group03_FinalReport.pdf). 
+The data used for the analysis and its metadata can be found in the [dataset](https://github.com/harshbg/Shaving-Blades-Analysis/tree/master/Data) folder. 
+The entire code has been provided [here](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Project_New.sas) can be used in the latest version of SAS to run replicate various operations provided and see the various outputs generated. 
+A detailed explanation of the various operations and the interpretation of the outputs can be found in the [project report](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Group03_FinalReport.pdf). 
 
 
 ## Code Examples
+Some examples of usage:
 
 ````
 /*Investigating Product type = Razor Blades*/
@@ -134,5 +135,7 @@ Project is: _finished_
 The color theme for the project presentation is inspired by the brand color of "BIC", our assumed client in the analysis. 
 
 ## Contact
-Created by me and my teammates Weiyang Sun, Gongzhan Hua, and Mengyun Xia.
-Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/).
+Created by me with my teammates Weiyang Sun, Gongzhan Hua, and Mengyun Xia.
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
+just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, <a href="https://www.linkedin.com/in/harshbg/" target="_blank">LinkedIn</a>, or <a href="https://twitter.com/harshbg" target="_blank">Twitter</a>. 
+My other projects can be found [here](http://www.gupta-harsh.com/projects/).
