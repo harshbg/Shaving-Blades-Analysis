@@ -1,3 +1,7 @@
+[![Language](https://img.shields.io/badge/Made%20with-SAS-blue.svg)](#technologies-and-tools)
+![HitCount](http://hits.dwyl.io/harshbg/Shaving-Blades-Analysis.svg)
+
+
 # Shaving Blades Market Analysis
 > An analysis of the shaving blades market in the United States. 
 The project was done as part of Predictive Analysis class at the University of Texas at Dallas.
@@ -142,3 +146,7 @@ just want to shoot a question, please feel free to connect with me on <a href="h
 <a href="http://bit.ly/2uOIUeo" target="_blank">LinkedIn</a>, or 
 <a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
 My other projects can be found [here](http://bit.ly/2UlyFgC).
+
+[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
+[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
+[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
